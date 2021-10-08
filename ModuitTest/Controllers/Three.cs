@@ -22,6 +22,8 @@ namespace ModuitTest.Controllers
             _logger = logger;
         }
 
+
+
         [HttpGet]
         public async Task<List<Model3>> GetAsync()
         {
