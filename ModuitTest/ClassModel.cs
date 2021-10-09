@@ -16,6 +16,13 @@ namespace ModuitTest
         public string createdAt { get; set; }
     }
 
+    public class tagss
+    {
+        public string tags { get; set; }
+
+    }
+
+
     public class Model3
     {
         public int id { get; set; }
